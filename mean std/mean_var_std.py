@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 def conform(list):
     if len(list) != 9:
        raise ValueError
